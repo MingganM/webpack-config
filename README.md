@@ -9,7 +9,7 @@ A ready to use (webpack based) project setup
 ## GUIDE:
 The configuration is setup for **Development mode** and **Production mode**. <br />
 **Development Mode:** Will open a live server. To start dev mode, simply go to terminal -> project folder and type "npm start" press enter.<br />
-**Production Mode:** Will produce a CSS HTML and JS file in "dist" folder, which is minified and ready to deploy.
+**Production Mode:** Will produce a CSS HTML and JS file in "dist" folder, which is minified and ready to deploy. In terminal type "npm run build" to use production mode.
 
 ## What This Setup Is Capable Of:
 - It will use **babel** to compile javascript.
